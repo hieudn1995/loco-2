@@ -23,7 +23,7 @@ def  init():
     global weight_time
     global seconds_elapsed
 
-bot_token = 'NjIwNDY5MTM2NDkyOTg2Mzkx.XXXO-Q.DffnmabWuQCgcXFZhlBfI9oTQJk'
+bot_token = 'NjA4Mjk0NDA5MDg3NDgzOTE0.XYwdfA.CgAoYcLEw0hsw-ijQ210cf9Sn-0'
 self_bot_token = 'NTE2ODYxNTczOTIzNDcxNDAx.XXTa1g.tvjdmZxgrMJfwnmn-IO6bVQfxNc'
 
 message = None
@@ -50,9 +50,9 @@ input_loco_private  = [
     "559442345674670082", #answers2
     '559357612068700183' #trivia-answers
 ]
-input_loco_public = ['617582752539213824']
-command_channel = '617582752539213824' #trivia-answers
-admin_chat = '617582752539213824' # answers2
+input_loco_public = ['608262001650696202']
+command_channel = '608262001650696202' #trivia-answers
+admin_chat = '620777556576305155' # answers2
 
 game_in_session = False
 counter_public_1 = 0
